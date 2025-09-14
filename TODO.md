@@ -1,0 +1,4 @@
+- [ ] Add new section id="four" for Projects after section id="three" in index.html
+- [ ] Update nav link for #four to "Projects"
+- [ ] Test navigation to ensure Projects section appears after A Few Accomplishments
+- [ ] Verify footer contact remains intact
