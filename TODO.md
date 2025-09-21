@@ -1,4 +1,4 @@
-- [ ] Add new section id="four" for Projects after section id="three" in index.html
-- [ ] Update nav link for #four to "Projects"
-- [ ] Test navigation to ensure Projects section appears after A Few Accomplishments
-- [ ] Verify footer contact remains intact
+- [x] Cambiar src de script.js a assets/js/script.js en index.html
+- [x] Agregar async al script de Google Maps en index.html
+- [x] Actualizar coordenadas a Medellín en assets/js/script.js
+- [x] Remover iniciarMap duplicada en assets/js/main.js (ya estaba removida)
