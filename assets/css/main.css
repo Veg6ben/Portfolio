@@ -1455,7 +1455,7 @@ textarea {
   appearance: none;
   border-radius: 5px;
   border: none;
-  background-color: #2a2936;
+   background: linear-gradient(180deg, #080f0f, rgba(69, 87, 105, 0.9098039216));
   color: #ccc;
   display: block;
   outline: 0;
@@ -2237,7 +2237,7 @@ input[type=button]:disabled,
 .proyectos-grid article .inner h4 {
   margin-bottom: 0.75rem;
   font-size: 1.1rem;
-  color: #d6c2c0;
+  color: #c0d5e2;
 }
 .proyectos-grid article .inner p {
   font-size: 0.9rem;
@@ -2348,10 +2348,10 @@ input[type=button]:disabled,
   right: 0;
 }
 #header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
-  color: #d6c2c0;
+  color: #c0d5e2;
 }
 #header h1 a, #header h2 a, #header h3 a, #header h4 a, #header h5 a, #header h6 a {
-  color: #d6c0c0;
+  color: #c0d5e2;
 }
 #header a {
   color: rgb(194.75, 195.5, 195.25);
@@ -2376,7 +2376,7 @@ input[type=button]:disabled,
   margin: 0;
 }
 #header > header p {
-  color: rgb(194.75, 195.5, 195.25);
+  color: #c0d5e2;
   font-style: italic;
   margin: 1em 0 0 0;
 }
@@ -2415,7 +2415,7 @@ input[type=button]:disabled,
   -ms-transition: none;
   transition: none;
   border: 0;
-  color: #d6c0c0 !important;
+  color: #c0d5e2 !important;
   display: block;
   padding: 0.85em 0;
   text-decoration: none;
@@ -2430,13 +2430,13 @@ input[type=button]:disabled,
 
 /* Wrapper */
 #wrapper {
-  background: #fff;
+  background: #feffff;
   padding-right: 23em;
 }
 
 /* Main */
 #main > section {
-  border-top: solid 6px #080f0f;
+  border-top: solid 6px #151818;
 }
 #main > section > .container {
   padding: 6em 0 4em 0;
