@@ -157,7 +157,7 @@ h2 {
 }
 
 h3 {
-  font-size: 1.75em;
+  font-size: 2.5em;
   line-height: 1.5em;
 }
 
@@ -1421,7 +1421,7 @@ header.major h2 {
 }
 header.major h2 + p {
   color: #777;
-  font-size: 1.75em;
+  font-size: 1.25em;
   font-weight: 700;
   margin-top: -0.75em;
 }
@@ -2196,7 +2196,7 @@ input[type=button]:disabled,
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 1.5rem;
-  margin: 2rem 0;
+  margin: 1rem 0;
 }
 .proyectos-grid article {
   border: 1px solid #f4f4f4;
